@@ -6,10 +6,10 @@ import { Container } from 'react-bootstrap'
 import { Nav } from 'react-bootstrap'
 import { Navbar } from 'react-bootstrap'
 import { NavDropdown } from 'react-bootstrap'
-import Post from './components/post.jsx';
+import Post from './components/Post.jsx';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css'
-import Corediv from './components/Corediv';
+import Corediv from './components/Corediv.jsx';
 function App() {
   return (
     <div className='app'>
