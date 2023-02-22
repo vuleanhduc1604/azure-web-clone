@@ -6,7 +6,7 @@ import { Container } from 'react-bootstrap'
 import { Nav } from 'react-bootstrap'
 import { Navbar } from 'react-bootstrap'
 import { NavDropdown } from 'react-bootstrap'
-import Post from './components/post';
+import Post from './components/post.jsx';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css'
 import Corediv from './components/Corediv';
